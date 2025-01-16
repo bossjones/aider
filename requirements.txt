@@ -6,7 +6,7 @@
 #
 aiohappyeyeballs==2.4.4
     # via aiohttp
-aiohttp==3.11.10
+aiohttp
     # via litellm
 aiosignal==1.3.1
     # via aiohttp
@@ -17,7 +17,7 @@ anyio==4.7.0
     #   httpx
     #   openai
     #   watchfiles
-attrs==24.2.0
+attrs
     # via
     #   aiohttp
     #   jsonschema
@@ -145,7 +145,7 @@ propcache==0.2.1
     # via
     #   aiohttp
     #   yarl
-psutil==6.1.0
+psutil
     # via -r requirements/requirements.in
 ptyprocess==0.7.0
     # via pexpect
@@ -183,14 +183,14 @@ referencing==0.35.1
     #   jsonschema-specifications
 regex==2024.11.6
     # via tiktoken
-requests==2.32.3
+requests
     # via
     #   huggingface-hub
     #   litellm
     #   mixpanel
     #   posthog
     #   tiktoken
-rich==13.9.4
+rich
     # via -r requirements/requirements.in
 rpds-py==0.22.3
     # via
@@ -239,7 +239,7 @@ typing-extensions==4.12.2
     #   openai
     #   pydantic
     #   pydantic-core
-urllib3==2.2.3
+urllib3
     # via
     #   mixpanel
     #   requests
@@ -247,7 +247,7 @@ watchfiles==1.0.0
     # via -r requirements/requirements.in
 wcwidth==0.2.13
     # via prompt-toolkit
-yarl==1.18.3
+yarl
     # via aiohttp
 zipp==3.21.0
     # via importlib-metadata
