@@ -214,7 +214,7 @@ sounddevice==0.5.1
     # via -r requirements/requirements.in
 soundfile==0.12.1
     # via -r requirements/requirements.in
-soupsieve==2.6
+soupsieve==4.0
     # via beautifulsoup4
 tiktoken==0.8.0
     # via litellm
