@@ -57,7 +57,7 @@ frozenlist==1.5.0
     # via
     #   aiohttp
     #   aiosignal
-fsspec==2024.10.0
+fsspec==2026.6.0
     # via huggingface-hub
 gitdb==4.0.11
     # via gitpython
